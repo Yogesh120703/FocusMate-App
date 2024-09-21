@@ -1,7 +1,7 @@
 # React + Vite
-Here’s a detailed README file for your **FocusMate** project:
 
 ---
+Live link : https://focus-mate-app.vercel.app/
 
 # FocusMate: Task Management App
 
